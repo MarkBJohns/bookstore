@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "amazon_url": {
+        "type": "string"
+      },
+      "pages": {
+        "type": "integer"
+      },
+      "year": {
+        "type": "integer"
+      },
+      "author": {
+        "type": "string"
+      },
+      "isbn": {
+        "type": "string"
+      },
+      "publisher": {
+        "type": "string"
+      },
+      "language": {
+        "type": "string"
+      },
+      "title": {
+        "type": "string"
+      }
+    }
+  }
